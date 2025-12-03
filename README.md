@@ -42,7 +42,7 @@
 ------
 ### Решение 2
 - [Скрипт](check_web.sh)
-- [keepalived.conf](keepalived.conf)
+- [keepalived.conf](keepalived.conf) `На BACKUP меняется только state и priority (state BACKUP, priority 254)`
 ### Скриншоты
 #### 1. VIP на MASTER
 ![VIP_MASTER](img/spet1.png)
