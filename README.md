@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 1 «Disaster recovery и Keepalived» - Спетницкий Д.И.
+# Домашнее задание к занятию «Disaster recovery и Keepalived» - Спетницкий Д.И.
 
 
 
