@@ -46,5 +46,5 @@
 ### Скриншоты
 #### 1. VIP на MASTER
 ![VIP_MASTER](img/spet1.png)
-#### 1. VIP на BACKUP
+#### 2. VIP на BACKUP
 ![VIP_BACKUP](img/spet2.png)
